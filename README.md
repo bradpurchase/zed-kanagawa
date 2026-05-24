@@ -22,6 +22,10 @@ This is an early stage project, so if you find any inconsistencies feel free to 
 - **Kanagawa Lotus**: A light theme inspired by the serenity of lotuses.
   ![Kanagawa Lotus Theme](./previews/Kanagawa_lotus.png)
 
+## Contribution
+
+I may not be immediately response but feel free to submit PR's improving the theme or adding new features.
+
 ## Credit
 
 All credit goes to [rebelot's](https://github.com/rebelot) for creating this wonderful theme - you can thank him [here](https://github.com/rebelot/kanagawa.nvim#donate)!
