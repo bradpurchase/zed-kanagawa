@@ -1,5 +1,5 @@
-id = "kanagawa-themes"
-name = "Kanagawa Themes"
+id = "kanagawa"
+name = "Kanagawa"
 version = "0.1.2"
 schema_version = 1
 authors = [
@@ -7,4 +7,4 @@ authors = [
     "Yair Chan <enyaoficial001@gmail.com",
 ]
 description = "🌊 Zed port of rebelot's Kanagawa.nvim theme 🐉"
-repository = "https://github.com/ethangilmore/zed-kanagawa"
+repository = "https://github.com/bradpurchase/zed-kanagawa"
