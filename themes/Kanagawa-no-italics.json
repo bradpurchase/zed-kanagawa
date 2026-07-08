@@ -177,6 +177,11 @@
             "font_style": null,
             "font_weight": null
           },
+          "attribute.jsx": {
+            "color": "#C0A36E",
+            "font_style": null,
+            "font_weight": null
+          },
           "boolean": {
             "color": "#FFA066",
             "font_style": null,
@@ -342,6 +347,16 @@
             "font_style": null,
             "font_weight": null
           },
+          "punctuation.bracket.jsx": {
+            "color": "#9CABCA",
+            "font_style": null,
+            "font_weight": null
+          },
+          "punctuation.delimiter.jsx": {
+            "color": "#9CABCA",
+            "font_style": null,
+            "font_weight": null
+          },
           "punctuation.special.symbol": {
             "color": "#E82424",
             "font_style": null,
@@ -373,7 +388,17 @@
             "font_weight": null
           },
           "tag": {
-            "color": "#7E9CD8",
+            "color": "#7AA89F",
+            "font_style": null,
+            "font_weight": null
+          },
+          "tag.component.jsx": {
+            "color": "#7AA89F",
+            "font_style": null,
+            "font_weight": null
+          },
+          "tag.jsx": {
+            "color": "#7AA89F",
             "font_style": null,
             "font_weight": null
           },
